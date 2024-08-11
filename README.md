@@ -2,9 +2,10 @@
 Microservices E-Commerce Backend SpringBoot Application.  
 
 #### Repository Links to individual microservices-
-Product Service - [Product Service Github Repo](https://github.com/neeraj06152k/ProductService.git)  
-Order Service - [Order Service Github Repo](https://github.com/neeraj06152k/OrderService.git)  
-Payment Service - [Payment Service Github Repo](https://github.com/neeraj06152k/PaymentService.git)  
+Product Service   -   [Product Service Github Repo](https://github.com/neeraj06152k/ProductService.git)  
+Order Service     -   [Order Service Github Repo](https://github.com/neeraj06152k/OrderService.git)  
+Payment Service   -   [Payment Service Github Repo](https://github.com/neeraj06152k/PaymentService.git)  
+Cart Service      -   [Cart Service Github Repo](https://github.com/neeraj06152k/CartService.git)  
 
 ## TL;DR
 This repo is a collection of backend RESTful APIs required for E-Commerce applications. These are built using Java and SpringBoot.  
