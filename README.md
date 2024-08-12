@@ -36,7 +36,8 @@ The process flow from browsing the products to the order payment is as follows.
 ## Payment Flow Diagram
 ![Payment Flow Diagram drawio](https://github.com/user-attachments/assets/076ceede-4096-4d44-bfe8-8a807606c115)
 
-
+## Status
+- Application Status: Beta
 
 
 
