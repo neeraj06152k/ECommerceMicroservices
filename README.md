@@ -36,6 +36,15 @@ The process flow from browsing the products to the order payment is as follows.
 ## Payment Flow Diagram
 ![Payment Flow Diagram drawio](https://github.com/user-attachments/assets/076ceede-4096-4d44-bfe8-8a807606c115)
 
+## Tools and Technologies
+- Java 17
+- Maven
+- Spring boot
+- JPA/Hibernate
+- MySQL
+- Redis (Reduced payment service response time from ~500ms to ~10ms using Redis cache)
+- Stripe Payment Gateway
+
 ## Status
 - Application Status: Beta
 
