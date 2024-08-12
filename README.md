@@ -29,6 +29,14 @@ The process flow from browsing the products to the order payment is as follows.
 - The order service then updates the status of the order to "PAYMENTCOMPLETED".
 
 
+## Microservices Diagram  
+![ECommerce_backend drawio](https://github.com/user-attachments/assets/fb1b4700-75e5-40d9-a416-e5cdb36fe32b)
+
+
+## Payment Flow Diagram
+![Payment Flow Diagram drawio](https://github.com/user-attachments/assets/076ceede-4096-4d44-bfe8-8a807606c115)
+
+
 
 
 
